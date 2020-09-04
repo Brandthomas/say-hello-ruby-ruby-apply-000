@@ -1,5 +1,5 @@
 # Build your say_hello method here
 def say_hello(name = "Kent Beck")
-  puts "Hello Ruby Programmer!"
-  say_hello(Kent Beck)
+  puts "Hello Kent Beck!"
+  say_hello("Ruby Programmer")
 end
